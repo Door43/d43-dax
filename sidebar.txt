@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dax:home|Door43 (dax)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dax|d43-dax repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dax/archive/master.zip|d43-dax.zip]]
+
+**Recent Changes**
+{{changes>ns = dax}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dax|Ethnologue data]]
+
